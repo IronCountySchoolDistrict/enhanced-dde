@@ -1,4 +1,4 @@
 <!-- TODO: Create an Add Filter button, allow form rows to be deleted, and headerSelect total desired number of filters -->
 <!-- TODO: Write unit tests for this (and everything else, but start here) -->
 
-<script src="/scripts/EnhancedDDE/dde.js"></script>
+<script src="<!-- @echo IMAGE_SERVER_URL -->/scripts/enhanced-dde/js/dde.js"></script>
