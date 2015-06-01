@@ -1,0 +1,19 @@
+{
+  "name": "enhanced-dde",
+  "version": "1.1.0",
+  "description": "Adds Find Me Alert to each student screen",
+  "main": "",
+  "scripts": {
+    "test": "mocha-casperjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronCountySchoolDistrict/enhanced-dde.git"
+  },
+  "author": "IronCountySchoolDistrict",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IronCountySchoolDistrict/enhanced-dde/issues"
+  },
+  "homepage": "https://github.com/IronCountySchoolDistrict/enhanced-dde#readme"
+}
