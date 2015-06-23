@@ -2,4 +2,4 @@
 <!-- TODO: Write unit tests for this (and everything else, but start here) -->
 <!-- TODO: Make the JS for these files one file, and insert them from this page fragment -->
 
-<script src="<!-- @echo IMAGE_SERVER_URL -->/scripts/enhanced-dde/js/dde.js"></script>
+<script src="<!-- @echo IMAGE_SERVER_URL -->/enhanced-dde/js/dde.js"></script>
